@@ -15,7 +15,7 @@ Console.WriteLine("Ottobre");
 Console.WriteLine("Novembre");
 Console.WriteLine("Dicembre");
 
-Console.WriteLine("scrivi qui il mese che preferisci?");
+Console.WriteLine("Scrivi qui il mese che preferisci");
 var testo = Console.ReadLine();
 Console.WriteLine(testo);
 
